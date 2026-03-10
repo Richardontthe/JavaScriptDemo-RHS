@@ -120,7 +120,7 @@ document.getElementById("fecha").innerHTML=fecha;
 // strings
 function usarString(){
 
-let texto="javascript es divertido";
+let texto="javascript es toda";
 
 let resultado = texto.toUpperCase();
 
